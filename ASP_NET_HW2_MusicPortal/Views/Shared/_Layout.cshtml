@@ -1,0 +1,64 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Music Portal</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @Scripts.Render("~/bundles/jqueryUI")
+    @Scripts.Render("~/bundles/jqueryval")
+</head>
+<body style="background-position: 100% 0%; background-repeat: no-repeat; background-image: url(/backgr/1.jpg); background-color: black;">
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("Main", "Index", "Home", null, new { @class = "navbar-brand" })
+                @Html.ActionLink("Registration", "Create", "User", null, new { @class = "navbar-brand" })
+                @Html.ActionLink("Login", "Login", "User", null, new { @class = "navbar-brand" })
+            </div>
+            <div class="navbar-collapse collapse">
+
+            </div>
+        </div>
+    </div>
+    <div class="container body-content" style="display:flex; justify-content: flex-end">
+        @if (Session["login"] != null)
+        {
+
+            <span style="margin: 15px">You are logged in as @Session["login"]</span>
+
+            using (Html.BeginForm("Logout", "User", FormMethod.Get))
+            {
+                <div class="form-actions no-color" style="margin: 10px">
+                    <input type="submit" value="Exit" class="btn btn-default" />
+                </div>
+            }
+        }
+        else
+        {
+            <span style="margin: 15px">You are logged in as Guest</span>
+        }
+    </div>
+    <div class="container body-content">
+        @RenderBody()
+
+        <footer>
+            <p>&copy; @DateTime.Now.Year - Bugi Application</p>
+        </footer>
+    </div>
+
+
+  
+    
+
+</body>
+</html>

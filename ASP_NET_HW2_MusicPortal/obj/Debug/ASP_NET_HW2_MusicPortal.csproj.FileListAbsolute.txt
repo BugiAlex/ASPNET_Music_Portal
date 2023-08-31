@@ -1,0 +1,404 @@
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\ASP_NET_HW2_MusicPortal.dll.config
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\ASP_NET_HW2_MusicPortal.dll
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\ASP_NET_HW2_MusicPortal.pdb
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\csc.exe
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\csc.exe.config
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\csc.rsp
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\csi.exe
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\csi.exe.config
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\csi.rsp
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.AppContext.dll
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Console.dll
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.IO.Compression.dll
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Net.Http.dll
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.ValueTuple.dll
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\vbc.exe
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\vbc.exe.config
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\vbc.rsp
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\VBCSCompiler.exe
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\Antlr3.Runtime.dll
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\Newtonsoft.Json.dll
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Web.Helpers.dll
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Web.Mvc.dll
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Web.Optimization.dll
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Web.Razor.dll
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Web.WebPages.dll
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Web.WebPages.Razor.dll
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\WebGrease.dll
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Web.Helpers.xml
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Web.Mvc.xml
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Web.Optimization.xml
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Web.Razor.xml
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Web.WebPages.xml
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Web.WebPages.Razor.xml
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\Newtonsoft.Json.xml
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\Antlr3.Runtime.pdb
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\obj\Debug\ASP_NET_HW2_MusicPortal.csprojAssemblyReference.cache
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\obj\Debug\ASP_NET_HW2_MusicPortal.csproj.CoreCompileInputs.cache
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\obj\Debug\ASP_NET_HW2_MusicPortal.csproj.CopyComplete
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\obj\Debug\ASP_NET_HW2_MusicPortal.dll
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\obj\Debug\ASP_NET_HW2_MusicPortal.pdb
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\EntityFramework.dll
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\EntityFramework.SqlServer.dll
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\EntityFramework.xml
+C:\Users\Bugi\source\repos\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\EntityFramework.SqlServer.xml
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\ASP_NET_HW2_MusicPortal.dll.config
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\ASP_NET_HW2_MusicPortal.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\ASP_NET_HW2_MusicPortal.pdb
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\csc.exe
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\csc.exe.config
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\csc.rsp
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\csi.exe
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\csi.exe.config
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\csi.rsp
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.AppContext.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Collections.Immutable.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Console.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Globalization.Calendars.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.IO.Compression.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.IO.FileSystem.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Net.Http.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Net.Sockets.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Reflection.Metadata.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.ValueTuple.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Xml.XPath.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\vbc.exe
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\vbc.exe.config
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\vbc.rsp
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\VBCSCompiler.exe
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\VBCSCompiler.exe.config
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\Antlr3.Runtime.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\EntityFramework.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\EntityFramework.SqlServer.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\Microsoft.Web.Infrastructure.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\Newtonsoft.Json.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Web.Helpers.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Web.Mvc.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Web.Optimization.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Web.Razor.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Web.WebPages.Deployment.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Web.WebPages.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Web.WebPages.Razor.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\WebGrease.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\EntityFramework.xml
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\EntityFramework.SqlServer.xml
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Web.Helpers.xml
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Web.Mvc.xml
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Web.Optimization.xml
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Web.Razor.xml
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Web.WebPages.xml
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Web.WebPages.Deployment.xml
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Web.WebPages.Razor.xml
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\Newtonsoft.Json.xml
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\Antlr3.Runtime.pdb
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\ru\System.Web.Helpers.resources.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\ru\System.Web.Mvc.resources.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\ru\System.Web.Optimization.resources.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\ru\System.Web.Razor.resources.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\ru\System.Web.WebPages.resources.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\obj\Debug\ASP_NET_HW2_MusicPortal.csprojAssemblyReference.cache
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\obj\Debug\ASP_NET_HW2_MusicPortal.csproj.CoreCompileInputs.cache
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\obj\Debug\ASP_NET_HW2_MusicPortal.csproj.CopyComplete
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\obj\Debug\ASP_NET_HW2_MusicPortal.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW2_MusicPortal\ASP_NET_HW2_MusicPortal\obj\Debug\ASP_NET_HW2_MusicPortal.pdb
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\ASP_NET_HW2_MusicPortal.dll.config
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\ASP_NET_HW2_MusicPortal.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\ASP_NET_HW2_MusicPortal.pdb
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\csc.exe
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\csc.exe.config
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\csc.rsp
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\csi.exe
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\csi.exe.config
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\csi.rsp
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.AppContext.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Collections.Immutable.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Console.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Globalization.Calendars.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.IO.Compression.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.IO.FileSystem.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Net.Http.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Net.Sockets.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Reflection.Metadata.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.ValueTuple.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Xml.XPath.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\vbc.exe
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\vbc.exe.config
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\vbc.rsp
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\VBCSCompiler.exe
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\VBCSCompiler.exe.config
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\Antlr3.Runtime.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\Autofac.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\Autofac.Integration.Mvc.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\EntityFramework.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\EntityFramework.SqlServer.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\Microsoft.Web.Infrastructure.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\Newtonsoft.Json.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Buffers.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Memory.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Numerics.Vectors.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Threading.Tasks.Extensions.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Web.Helpers.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Web.Mvc.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Web.Optimization.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Web.Razor.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Web.WebPages.Deployment.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Web.WebPages.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Web.WebPages.Razor.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\WebGrease.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\Autofac.pdb
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\Autofac.xml
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\Autofac.Integration.Mvc.pdb
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\Autofac.Integration.Mvc.xml
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\EntityFramework.xml
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\EntityFramework.SqlServer.xml
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Buffers.xml
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Memory.xml
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Numerics.Vectors.xml
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Threading.Tasks.Extensions.xml
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Web.Helpers.xml
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Web.Mvc.xml
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Web.Optimization.xml
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Web.Razor.xml
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Web.WebPages.xml
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Web.WebPages.Deployment.xml
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Web.WebPages.Razor.xml
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\Newtonsoft.Json.xml
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\Antlr3.Runtime.pdb
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\ru\System.Web.Helpers.resources.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\ru\System.Web.Mvc.resources.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\ru\System.Web.Optimization.resources.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\ru\System.Web.Razor.resources.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\ru\System.Web.WebPages.resources.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\obj\Debug\ASP_NET_HW2_MusicPortal.csprojAssemblyReference.cache
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\obj\Debug\ASP_NET_HW2_MusicPortal.csproj.CoreCompileInputs.cache
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\obj\Debug\ASP_NET_HW2_MusicPortal.csproj.CopyComplete
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\obj\Debug\ASP_NET_HW2_MusicPortal.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW4_MusicPortal\ASP_NET_HW2_MusicPortal\obj\Debug\ASP_NET_HW2_MusicPortal.pdb
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\obj\Debug\ASP_NET_HW2_MusicPortal.csproj.CoreCompileInputs.cache
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\obj\Debug\ASP_NET_HW2_MusicPortal.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\obj\Debug\ASP_NET_HW2_MusicPortal.pdb
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\ASP_NET_HW2_MusicPortal.dll.config
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\ASP_NET_HW2_MusicPortal.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\ASP_NET_HW2_MusicPortal.pdb
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\csc.exe
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\csc.exe.config
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\csc.rsp
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\csi.exe
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\csi.exe.config
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\csi.rsp
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.AppContext.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Collections.Immutable.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Console.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Globalization.Calendars.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.IO.Compression.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.IO.FileSystem.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Net.Http.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Net.Sockets.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Reflection.Metadata.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.ValueTuple.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Xml.XPath.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\vbc.exe
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\vbc.exe.config
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\vbc.rsp
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\VBCSCompiler.exe
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\roslyn\VBCSCompiler.exe.config
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\Antlr3.Runtime.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\Autofac.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\Autofac.Integration.Mvc.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\Microsoft.Web.Infrastructure.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\MusicPortal.BLL.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\Newtonsoft.Json.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Buffers.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Memory.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Numerics.Vectors.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Threading.Tasks.Extensions.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Web.Helpers.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Web.Mvc.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Web.Optimization.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Web.Razor.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Web.WebPages.Deployment.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Web.WebPages.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Web.WebPages.Razor.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\WebGrease.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\MusicPotal.DAL.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\EntityFramework.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\MusicPortal.BLL.pdb
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\MusicPortal.BLL.dll.config
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\Autofac.pdb
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\Autofac.xml
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\Autofac.Integration.Mvc.pdb
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\Autofac.Integration.Mvc.xml
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Buffers.xml
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Memory.xml
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Numerics.Vectors.xml
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Threading.Tasks.Extensions.xml
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Web.Helpers.xml
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Web.Mvc.xml
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Web.Optimization.xml
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Web.Razor.xml
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Web.WebPages.xml
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Web.WebPages.Deployment.xml
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\System.Web.WebPages.Razor.xml
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\Newtonsoft.Json.xml
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\Antlr3.Runtime.pdb
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\MusicPotal.DAL.pdb
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\MusicPotal.DAL.dll.config
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\EntityFramework.xml
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\ru\System.Web.Helpers.resources.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\ru\System.Web.Mvc.resources.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\ru\System.Web.Optimization.resources.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\ru\System.Web.Razor.resources.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\ru\System.Web.WebPages.resources.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\obj\Debug\ASP_NET_HW2_MusicPortal.csproj.CopyComplete
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\ASP_NET_HW2_MusicPortal\obj\Debug\ASP_NET_HW2_MusicPortal.csproj.AssemblyReference.cache

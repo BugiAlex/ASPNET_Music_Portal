@@ -1,0 +1,68 @@
+﻿@model IEnumerable<ASP_NET_HW2_MusicPortal.Models.ViewSong>
+
+@if (Session["login"] != null)
+{
+    <hr>
+    if (Session["status"].ToString() == "0")
+    {
+        <p>Your request for registration is under consideration by the site administration</p>
+        <hr>
+    }
+    else
+    {
+        if (Session["role"].ToString() == "admin")
+        {
+            <p>
+                @Html.ActionLink("Users", "Index", "User") <span> | </span>
+                @Html.ActionLink("Songs", "Index", "Song") <span> | </span>
+                @Html.ActionLink("Genres", "Index", "Genre")
+            </p>
+            <hr />
+        }
+        else
+        {
+            <p>
+                @Html.ActionLink("Add songs", "Create", "Song")
+
+            </p>
+            <hr />
+        }
+    }
+}
+
+
+<p>@ViewBag.CountLoadSongs</p>
+
+<div>
+    <h3 style="color: red">List songs</h3>
+    <hr/>
+
+    <table style="width:80%; margin:auto">
+
+       
+        @foreach (var st in Model)
+        {
+        <tr style="border-bottom: solid 2px gray">
+
+            <td><div><p>@st.Singer</p><p style="color:red">@st.Name</p></div></td>
+           
+                <td style="text-align: center">
+
+                    <audio controls style="width: 500px; margin-bottom:5px; margin-top:5px;">
+                        <source src="@st.Path" type="audio/mp3">
+
+                        <p>Your browser doesn't support HTML5 audio. Here is a <a href="viper.mp3">link to the audio</a> instead.</p>
+                    </audio>
+
+                </td>
+
+            <td><p style=" border: solid 2px gray; border-radius: 10px; box-shadow: 1px 1px 4px white; text-align:center; color: white">@st.Genre</p></td>
+            <td><p style=" border: solid 2px gray; border-radius: 10px; box-shadow: 1px 1px 4px white; text-align:center; color: white">@st.User</p></td>
+        </tr>
+        }
+    </table>
+   
+</div>
+
+
+        <p>@ViewBag.Text</p>

@@ -1,0 +1,38 @@
+﻿@model IEnumerable<MusicPortal.BLL.DTO.GenreDTO >
+<h2>Genre</h2>
+<p>
+    @Html.ActionLink("Create New Genre", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        if (item.Name != "None")
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.Id },
+                        new { @class = "viewDialog", data_dialog_title = "Edit Genre" }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.Id },
+                        new { @class = "viewDialog", data_dialog_title = "Delete Genre" })
+                </td>
+            </tr>
+        }
+
+    }
+
+</table>
+
+<div>
+    @Html.ActionLink("Back to List", "Index", "Home")
+</div>
+

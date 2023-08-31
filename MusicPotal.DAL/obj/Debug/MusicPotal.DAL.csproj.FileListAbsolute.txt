@@ -1,0 +1,12 @@
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\MusicPotal.DAL\bin\Debug\MusicPotal.DAL.dll.config
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\MusicPotal.DAL\bin\Debug\MusicPotal.DAL.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\MusicPotal.DAL\bin\Debug\MusicPotal.DAL.pdb
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\MusicPotal.DAL\bin\Debug\EntityFramework.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\MusicPotal.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\MusicPotal.DAL\bin\Debug\EntityFramework.xml
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\MusicPotal.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\MusicPotal.DAL\obj\Debug\MusicPotal.DAL.csproj.CoreCompileInputs.cache
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\MusicPotal.DAL\obj\Debug\MusicPotal.DAL.csproj.CopyComplete
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\MusicPotal.DAL\obj\Debug\MusicPotal.DAL.dll
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\MusicPotal.DAL\obj\Debug\MusicPotal.DAL.pdb
+D:\Step_Academy\Мои учебные проекты\ASP.NET\ASP_NET_HW5_MusicPortal\MusicPotal.DAL\obj\Debug\MusicPotal.DAL.csproj.AssemblyReference.cache
